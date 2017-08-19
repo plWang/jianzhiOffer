@@ -26,5 +26,3 @@ bool match(char* str, char* pattern) {
             return match(str, pattern+2);
     }
 }
-
-int main()
